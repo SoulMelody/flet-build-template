@@ -11,7 +11,7 @@
     "flutter": null,
     "sep": "/",
     "kotlin_dir": "{{ cookiecutter.org_name.replace('.', cookiecutter.sep) }}{{ cookiecutter.sep }}{{ cookiecutter.project_name }}{{ cookiecutter.sep }}",
-    "hide_loading_animation": true,
+    "hide_loading_animation": false,
     "team_id": "",
     "base_url": "/",
     "route_url_strategy": "path",
